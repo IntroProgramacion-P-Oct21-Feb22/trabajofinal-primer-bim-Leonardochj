@@ -1,3 +1,5 @@
+Trabajo grupal: Jonathan Coronel y Leonardo Chuquimarca
+
 # Trabajo Final del Primer Bimestre
 
 ## Actividades
